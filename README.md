@@ -2,7 +2,6 @@
 
 ![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=nandorojo&count_private=true&show_icons=true&theme=radical)
 
-![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandorojo)
 
 Twitter: [@fernandotherojo](twitter.com/fernandotherojo)
 
@@ -19,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandorojo)
 -->
