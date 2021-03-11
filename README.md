@@ -2,8 +2,11 @@
 
 ![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=nandorojo&count_private=true&show_icons=true&theme=radical)
 
+[![Source Karma badge for @nandorojo](https://sourcekarma-og.vercel.app/api/nandorojo/github)](https://sourcekarma.vercel.app/nandorojo)
 
-Twitter: [@fernandotherojo](twitter.com/fernandotherojo)
+## Twitter
+
+Follow [@fernandotherojo](twitter.com/fernandotherojo)
 
 <!--
 **nandorojo/nandorojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandorojo)
 -->
