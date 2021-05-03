@@ -3,7 +3,7 @@
 ![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=nandorojo&count_private=true&show_icons=true&theme=radical)
 
 
-## Twitter
+## Follow me on Twitter
 
 Follow [@fernandotherojo](twitter.com/fernandotherojo)
 
