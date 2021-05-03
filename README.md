@@ -2,7 +2,6 @@
 
 ![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=nandorojo&count_private=true&show_icons=true&theme=radical)
 
-[![Source Karma badge for @nandorojo](https://sourcekarma-og.vercel.app/api/nandorojo/github)](https://sourcekarma.vercel.app/nandorojo)
 
 ## Twitter
 
@@ -10,6 +9,9 @@ Follow [@fernandotherojo](twitter.com/fernandotherojo)
 
 <!--
 **nandorojo/nandorojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Source Karma badge for @nandorojo](https://sourcekarma-og.vercel.app/api/nandorojo/github)](https://sourcekarma.vercel.app/nandorojo)
 
 Here are some ideas to get you started:
 
