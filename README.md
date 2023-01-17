@@ -1,7 +1,6 @@
 ## Fernando Rojo
 
-
-[![Source Karma badge for @nandorojo](https://sourcekarma-og.vercel.app/api/nandorojo/github)](https://sourcekarma.vercel.app/nandorojo)
+ 
 
 ## Follow me on Twitter
 
