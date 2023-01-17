@@ -1,7 +1,7 @@
 ## Fernando Rojo
 
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=nandorojo&count_private=true&show_icons=true&theme=radical)
 
+[![Source Karma badge for @nandorojo](https://sourcekarma-og.vercel.app/api/nandorojo/github)](https://sourcekarma.vercel.app/nandorojo)
 
 ## Follow me on Twitter
 
