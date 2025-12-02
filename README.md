@@ -6,7 +6,8 @@
 
 ## Follow me on X
 
-Follow [@fernandotherojo](https://twitter.com/fernandotherojo)
+Follow [@fernandorojo](https://twitter.com/fernandorojo)
+
 
 <!--
 **nandorojo/nandorojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
