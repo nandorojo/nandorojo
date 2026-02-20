@@ -1,11 +1,5 @@
 ## Fernando Rojo
 
- 
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=nandorojo&count_private=true&show_icons=true&theme=radical)
-
-
-## Follow me on X
-
 Follow [@fernandorojo](https://twitter.com/fernandorojo)
 
 
